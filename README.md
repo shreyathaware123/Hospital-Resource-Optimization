@@ -1,6 +1,6 @@
 # 🏥 Hospital Resource Optimization Project
 
-This project focuses on analyzing and optimizing hospital resources—including staff, patients, and inventory—using Power BI. It aims to support better data-driven decision-making for different hospital stakeholders. This dashboard provides a high-level overview of hospital operations to support strategic decision-making. It integrates insights from patient flow, staff availability, and inventory usage to ensure optimal resource allocation across the hospital.
+This project focuses on analyzing and optimizing hospital resources—including staff, patients, and inventory—using Power BI, Tableau, SQL, Python and Excel. It aims to support better data-driven decision-making for different hospital stakeholders. This dashboard provides a high-level overview of hospital operations to support strategic decision-making. It integrates insights from patient flow, staff availability, and inventory usage to ensure optimal resource allocation across the hospital.
 
 ## 📊 Project Overview
 
