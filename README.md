@@ -39,10 +39,11 @@ The goal is to optimize resource allocation, improve patient care, and identify 
 ## 🛠️ Tools & Technologies
 
 - **Power BI** – Data modeling, cleaning ,  Dashboard development and presentation
-- **Google Looker Studio** – Dashboard development and presentation
+- **Tableau** – Dashboard development and presentation
 - **Power Query Editor** – Data cleaning and transformation
 - **Excel/CSV** – Raw data format, Data Cleaning
-
+- **SQL(MySQL Workbench)** - Data Cleaning, Data Preprocessing, Data Validation, Data Analysis
+- "**Python** - For EDA, Charts & Graphs
 ---
 
 ## 📈 Dashboards Created
