@@ -109,7 +109,7 @@ The goal is to optimize resource allocation, improve patient care, and identify 
 
 **Shreya Nandkumar Thaware**  
 📧 shreyathaware9@gmail.com
-🔗 [LinkedIn Profile](https:www.linkedin.com/in/shreya-thaware-b9a006254)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shreya-thaware/)  
 🌐 [Portfolio ](https://www.datascienceportfol.io/shreyathaware9)
 
 Below is the actual drive link of this project where you can access all the files and Dashboards I created.
